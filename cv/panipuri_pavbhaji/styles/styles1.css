@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(216, 218, 236);
+}
+h1{
+    color:red; font-size:70px;}
+img{
+    width:20%;
+}
+
+/*img:hover{
+    background-color:rgb(4, 186, 77);
+}
+*/
+.pavbhaji{ 
+    background-color: yellow;
+}
+.panipuri{
+    background-color: orange;
+    
+}
+.circular{
+    border-radius: 100%;
+}
+#heading{
+    color: rgb(4, 186, 77);
+}
